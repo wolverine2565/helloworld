@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/Hello world/bin/Debug/net7.0/Hello world
+/Users/nikolaydanyukin/Desktop/Hello world/bin/Debug/net7.0/Hello world.deps.json
+/Users/nikolaydanyukin/Desktop/Hello world/bin/Debug/net7.0/Hello world.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/Hello world/bin/Debug/net7.0/Hello world.dll
+/Users/nikolaydanyukin/Desktop/Hello world/bin/Debug/net7.0/Hello world.pdb
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.dll
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/refint/Hello world.dll
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.pdb
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/Hello world.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/Hello world/obj/Debug/net7.0/ref/Hello world.dll
