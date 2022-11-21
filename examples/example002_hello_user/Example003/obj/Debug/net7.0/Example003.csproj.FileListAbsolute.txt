@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/bin/Debug/net7.0/Example003
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/bin/Debug/net7.0/Example003.deps.json
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/bin/Debug/net7.0/Example003.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/bin/Debug/net7.0/Example003.dll
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/bin/Debug/net7.0/Example003.pdb
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.dll
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/refint/Example003.dll
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.pdb
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/Example003.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/Hello world/examples/example002_hello_user/Example003/obj/Debug/net7.0/ref/Example003.dll
